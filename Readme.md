@@ -11,7 +11,7 @@ Una pequeña web donde un gato sigue el cursor por la pantalla.
 
 ## 🚀 Demo
 
-👉 [Ver la demo online](demo.gato.arnauquest.es)  
+👉 [Ver la demo online](demo-gato.arnauquest.es)  
 👨‍💻 [Repositorio en GitHub](gato.arnauquest.es)
 
 ---
