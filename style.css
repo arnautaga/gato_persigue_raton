@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+    background: #fffbf2;
+  }
+  
+  #gato {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    pointer-events: none;
+    transition: transform 0.1s;
+  }
+  
